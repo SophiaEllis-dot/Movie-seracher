@@ -1,4 +1,4 @@
-var searchInput = $(".search");
+var searchInput = $(".input");
 var itemWrapper = $("main");
 
 function displayMatches(matches) {
